@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Ticketsystem\n"
+"POT-Creation-Date: 2014-09-01 00:02+0530\n"
+"PO-Revision-Date: 2014-09-01 00:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: Yopesh <yopesh@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-ticketsys-admin.php:167
+#: ../admin/class-ticketsys-admin.php:177
+#: ../admin/class-ticketsys-admin.php:182 ../public/widget-ticketsys.php:14
+msgid "Ticketing System"
+msgstr "dddd"
+
+#: ../admin/class-ticketsys-admin.php:207
+msgid "Settings"
+msgstr ""
+
+#: ../admin/views/messages.php:341 ../index.php:5
+msgid "Administration"
+msgstr "awesome"
+
+#: ../public/widget-ticketsys.php:15
+msgid ""
+"Allows users to submit tickets to report problems or get support on whatever "
+"you want.\n"
+"\t\t\t Users can set the division, priority and product of each ticket."
+msgstr ""
+
+#: ../public/widget-ticketsys.php:84
+msgid "New title"
+msgstr ""
+
+#: ../public/widget-ticketsys.php:88
+msgid "Title:"
+msgstr ""

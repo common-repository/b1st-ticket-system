@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+
+
+    
+    
+    <theme>
+        <name>Ocean</name>
+        <backgroundcolor>#000185</backgroundcolor>
+        <loadercolor>#010850</loadercolor>
+        <inputcolor>#5b9ae1</inputcolor>
+        <inputtextcolor>#ddd</inputtextcolor>
+        <titlecolor>white</titlecolor>
+    </theme>
+    
+    
+    <theme>
+        <name>Light</name>
+        <backgroundcolor>#ebebeb</backgroundcolor>
+        <loadercolor>#575757</loadercolor>
+        <inputcolor>#ddd</inputcolor>
+        <inputtextcolor>#666</inputtextcolor>
+        <titlecolor>#000000</titlecolor>
+    </theme>
+    <theme>
+        <name>Beige</name>
+        <backgroundcolor>#c2a574</backgroundcolor>
+        <loadercolor>#81ae2c</loadercolor>
+        <inputcolor>#5db864</inputcolor>
+        <inputtextcolor>#ae2121</inputtextcolor>
+        <titlecolor>#961616</titlecolor>
+    </theme>
+<theme><name>asdassdsd</name><backgroundcolor>#ebebeb</backgroundcolor><loadercolor>#575753#asd7</loadercolor><inputcolor>#ddd</inputcolor><inputtextcolor>#666f</inputtextcolor><titlecolor>#000000</titlecolor></theme><theme><name>asdassdsdsdd</name><backgroundcolor>#ebebeb</backgroundcolor><loadercolor>#575753#asd7</loadercolor><inputcolor>#ddd</inputcolor><inputtextcolor>#666f</inputtextcolor><titlecolor>#000000</titlecolor></theme><theme><name>gggg</name><backgroundcolor>#ebebeb</backgroundcolor><loadercolor>#575757</loadercolor><inputcolor>#ddd</inputcolor><inputtextcolor>#666</inputtextcolor><titlecolor>#000000</titlecolor></theme><theme><name>asdasf</name><backgroundcolor>#ebebeb</backgroundcolor><loadercolor>#575757</loadercolor><inputcolor>#ddd</inputcolor><inputtextcolor>#666</inputtextcolor><titlecolor>#000000</titlecolor></theme><theme><name>March</name><backgroundcolor>#c72400</backgroundcolor><loadercolor>#ffc700</loadercolor><inputcolor>#800000</inputcolor><inputtextcolor>#f1e9e9</inputtextcolor><titlecolor>#ffffff</titlecolor></theme><theme><name>go</name><backgroundcolor>#ebebeb</backgroundcolor><loadercolor>#827272</loadercolor><inputcolor>#e72222</inputcolor><inputtextcolor>#4aae33</inputtextcolor><titlecolor>#2d58e4</titlecolor></theme></themes>

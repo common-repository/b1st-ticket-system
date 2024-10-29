@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<themes>
+
+
+    <theme>
+        <name>Cartoon</name>
+        <backgroundcolor>#c7b200</backgroundcolor>
+        <loadercolor>#991c00</loadercolor>
+        <inputcolor>#991c00</inputcolor>
+        <inputtextcolor>#ffffff</inputtextcolor>
+        <titlecolor>#991c00</titlecolor>
+    </theme>
+    <theme>
+        <name>Forest</name>
+        <backgroundcolor>#31d501</backgroundcolor>
+        <loadercolor>#888</loadercolor>
+        <inputcolor>#046100</inputcolor>
+        <inputtextcolor>#ddd</inputtextcolor>
+        <titlecolor>white</titlecolor>
+    </theme>
+    <theme>
+        <name>Ocean</name>
+        <backgroundcolor>#000185</backgroundcolor>
+        <loadercolor>#010850</loadercolor>
+        <inputcolor>#5b9ae1</inputcolor>
+        <inputtextcolor>#ddd</inputtextcolor>
+        <titlecolor>white</titlecolor>
+    </theme>
+    <theme>
+        <name>March</name>
+        <backgroundcolor>#c72400</backgroundcolor>
+        <loadercolor>#ffc700</loadercolor>
+        <inputcolor>#800000</inputcolor>
+        <inputtextcolor>#ffffff</inputtextcolor>
+        <titlecolor>#ffffff</titlecolor>
+    </theme>
+    <theme>
+        <name>Dark</name>
+        <backgroundcolor>#444</backgroundcolor>
+        <loadercolor>#888</loadercolor>
+        <inputcolor>#666</inputcolor>
+        <inputtextcolor>#ddd</inputtextcolor>
+        <titlecolor>white</titlecolor>
+    </theme>
+    <theme>
+        <name>Light</name>
+        <backgroundcolor>#ebebeb</backgroundcolor>
+        <loadercolor>#575757</loadercolor>
+        <inputcolor>#ddd</inputcolor>
+        <inputtextcolor>#666</inputtextcolor>
+        <titlecolor>#000000</titlecolor>
+    </theme>
+    <theme>
+        <name>Beige</name>
+        <backgroundcolor>#c2a574</backgroundcolor>
+        <loadercolor>#81ae2c</loadercolor>
+        <inputcolor>#5db864</inputcolor>
+        <inputtextcolor>#ae2121</inputtextcolor>
+        <titlecolor>#961616</titlecolor>
+    </theme>
+</themes>

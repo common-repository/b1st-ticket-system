@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <active>true</active>
+    <dbServer>localhost</dbServer>
+    <dbUsername>root</dbUsername>
+    <dbPassword>root</dbPassword>
+    <dbName>ticketsys</dbName>
+    <accName/>
+    <accEmail>support@egyfirst.com</accEmail>
+    <divisions><division>Support</division><division>Sales</division><division>Billing</division></divisions>
+    <products><product>Free Version</product><product>Light Version</product><product>Pro Version</product></products>
+    
+    
+    
+    <gmailusername/>
+    <gmailpassword/>
+    
+    
+    
+    
+    
+    
+    
+    <twitterusername/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<maxuploads>3</maxuploads><keyconsumer/><keysecretconsumer/><keytoken/><keysecrettoken/><recaptchaprivatekey>6LfskfESAAAAAG1dYCf73UvhC7bstxDWdBq7hF8B</recaptchaprivatekey><recaptchapublickey>6LfskfESAAAAAHSHhxGKCucmFcTh5Eaoe00Htkyw</recaptchapublickey><recaptchatheme>red</recaptchatheme><akismit/><spamdelete>no</spamdelete><spamshow>yes</spamshow><responderMail>support@egyfirst.com</responderMail><responderSubject>Your ticket is now posted</responderSubject><responderContent>Thank you for submitting your ticket. Our team will get back to you asap.</responderContent><metascan>545</metascan><emailUsername>a.elghazaly90@gmail.com</emailUsername><emailPassword>amr12341234</emailPassword><emailClient>Gmail</emailClient><emailimportaction>Mark as read</emailimportaction><emaildeleteaction>delete</emaildeleteaction><nbPerPage>100</nbPerPage><productOption>no</productOption><mailNotification>no</mailNotification><recaptchaOption>no</recaptchaOption><allowUpload>no</allowUpload><forceregister>no</forceregister><deleteconfirm>no</deleteconfirm><allowRating>no</allowRating><layout>1</layout><themename>Light</themename><backgroundcolor>#ebebeb</backgroundcolor><loadercolor>#575757</loadercolor><inputcolor>#ddd</inputcolor><inputtextcolor>#666</inputtextcolor><titlecolor>#000000</titlecolor><themenamecustomer>Light</themenamecustomer><backgroundcolorcustomer>#ebebeb</backgroundcolorcustomer><loadercolorcustomer>#575757</loadercolorcustomer><inputcolorcustomer>#ddd</inputcolorcustomer><inputtextcolorcustomer>#666</inputtextcolorcustomer><titlecolorcustomer>#000000</titlecolorcustomer></config>
